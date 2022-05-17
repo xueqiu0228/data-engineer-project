@@ -1,6 +1,6 @@
 # Data Engineering Projects
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsarasanalytics.com%2Fblog%2Fwhat-is-a-data-pipeline&psig=AOvVaw10Y9BChONYkynvP18m_8Ck&ust=1652831311222000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiz_s-a5fcCFQAAAAAdAAAAABAD)
+![](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/image.jpeg)
 
 ## Project 1: Data Modeling with Postgres
 In this project, we apply Data Modeling with Postgres and build an ETL pipeline using Python. A startup wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. Currently, they are collecting data in json format and the analytics team is particularly interested in understanding what songs users are listening to.
